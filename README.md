@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A Researcher in Smart Agriculture, deploy skills in 3D reconstruction data analysis, virtual plant models, and Python package programming.
+
 <!--
 **HowcanoeWang/HowcanoeWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,11 +31,16 @@ Here are some ideas to get you started:
 
 ### 1.2 Website maintainer
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UTokyo-FieldPhenomics-Lab&repo=mlcas2023.github.io)](https://github.com/UTokyo-FieldPhenomics-Lab/mlcas2023.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UTokyo-FieldPhenomics-Lab&repo=global-wheat.github.io)](https://github.com/UTokyo-FieldPhenomics-Lab/global-wheat.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UTokyo-FieldPhenomics-Lab&repo=global-rice.github.io)](https://github.com/UTokyo-FieldPhenomics-Lab/global-rice.github.io)
 
 ## 2. University of New Brunswick
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=Spherical2TreeAttributes)](https://github.com/HowcanoeWang/Spherical2TreeAttributes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=Floraecite)](https://github.com/HowcanoeWang/Floraecite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=Panorama2BasalArea)](https://github.com/HowcanoeWang/Panorama2BasalArea)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=ImageDBH)](https://github.com/HowcanoeWang/ImageDBH)
 
 ## 3. Chinese Academy of Forest
 
