@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UTokyo-FieldPhenomics-Lab&repo=global-wheat.github.io)](https://github.com/UTokyo-FieldPhenomics-Lab/global-wheat.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UTokyo-FieldPhenomics-Lab&repo=global-rice.github.io)](https://github.com/UTokyo-FieldPhenomics-Lab/global-rice.github.io)
 
+### 3) Graduation thesis
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=DoctorThesis)](https://github.com/HowcanoeWang/DoctorThesis)
+
 ## @ University of New Brunswick
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=Spherical2TreeAttributes)](https://github.com/HowcanoeWang/Spherical2TreeAttributes)
