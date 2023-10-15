@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=sython)](https://github.com/HowcanoeWang/sython)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=siyuan-calendar-panel)](https://github.com/HowcanoeWang/siyuan-calendar-panel)
 
-
 ## Useful tools
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=CoinTomado)](https://github.com/HowcanoeWang/CoinTomado)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=rime-lua-aux-code)](https://github.com/HowcanoeWang/rime-lua-aux-code)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=ArknightsLiverHelper.exe)](https://github.com/HowcanoeWang/ArknightsLiverHelper.exe)
