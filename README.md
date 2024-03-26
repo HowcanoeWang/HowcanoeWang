@@ -61,12 +61,12 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=siyuan-genshin-launcher)](https://github.com/HowcanoeWang/siyuan-genshin-launcher)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=siyuan-plugin-background-cover)](https://github.com/HowcanoeWang/siyuan-plugin-background-cover)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=sython)](https://github.com/HowcanoeWang/sython)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=siyuan-calendar-panel)](https://github.com/HowcanoeWang/siyuan-calendar-panel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=sython)](https://github.com/HowcanoeWang/sython)
 
 ## Useful tools
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=CoinTomado)](https://github.com/HowcanoeWang/CoinTomado)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=rime-lua-aux-code)](https://github.com/HowcanoeWang/rime-lua-aux-code)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=CoinTomado)](https://github.com/HowcanoeWang/CoinTomado)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HowcanoeWang&repo=ArknightsLiverHelper.exe)](https://github.com/HowcanoeWang/ArknightsLiverHelper.exe)
