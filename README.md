@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ![HW's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HowcanoeWang&langs_count=10&hide=M,AGS%20Script,Objective%2DC&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%2010))![HW's github stats](https://github-readme-stats.vercel.app/api?username=HowcanoeWang&show_icons=true&hide_border=true&include_all_commits=true)
 
+[TOC]
+
 # My Academic Projects
 
 ## @ University of Tokyo
@@ -28,11 +30,13 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UTokyo-FieldPhenomics-Lab&repo=EasyIDP)](https://github.com/UTokyo-FieldPhenomics-Lab/EasyIDP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UTokyo-FieldPhenomics-Lab&repo=EasyDCP)](https://github.com/UTokyo-FieldPhenomics-Lab/EasyDCP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UTokyo-FieldPhenomics-Lab&repo=EasyAMS)](https://github.com/UTokyo-FieldPhenomics-Lab/EasyAMS)
 
 ### 2) Website maintainer
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UTokyo-FieldPhenomics-Lab&repo=mlcas2023.github.io)](https://github.com/UTokyo-FieldPhenomics-Lab/mlcas2023.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UTokyo-FieldPhenomics-Lab&repo=global-wheat.github.io)](https://github.com/UTokyo-FieldPhenomics-Lab/global-wheat.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UTokyo-FieldPhenomics-Lab&repo=mlcas2023.github.io)](https://github.com/UTokyo-FieldPhenomics-Lab/mlcas2023.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UTokyo-FieldPhenomics-Lab&repo=mlcas2025.github.io)](https://github.com/UTokyo-FieldPhenomics-Lab/mlcas2025.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UTokyo-FieldPhenomics-Lab&repo=global-rice.github.io)](https://github.com/UTokyo-FieldPhenomics-Lab/global-rice.github.io)
 
 ### 3) Graduation thesis
